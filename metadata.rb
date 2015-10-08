@@ -1,6 +1,6 @@
 name             'handler_dsl_demo'
 maintainer       'Chef Software, Inc.'
-maintainer_email 'jdunn@getchef.com'
+maintainer_email 'jdunn@chef.io'
 license          'Apache 2.0'
 description      'Installs/Configures handler_dsl_demo'
 long_description 'Installs/Configures handler_dsl_demo'
